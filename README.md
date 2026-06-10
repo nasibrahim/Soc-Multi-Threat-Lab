@@ -38,10 +38,18 @@ SIEM Monitoring
 Cybersecurity Event Correlation
 Dashboard Visualization
 
+Dashboard Visualization
+
 Dashboard Components
-Detection ModulePurposeBrute Force DetectionDetect repeated login failuresDoS DetectionIdentify excessive network requestsPhishing DetectionMonitor suspicious URL interactions
+
+Detection Module	Purpose
+
+Brute Force Detection	Detect repeated login failures
+DoS Detection	Identify excessive network requests
+Phishing Detection	Monitor suspicious URL interactions
 
 Skills Demonstrated
+
 SIEM Administration
 Splunk Dashboard Development
 SPL Query Writing
@@ -51,12 +59,11 @@ Log Correlation
 Incident Analysis
 
 SOC Operations
+
 Blue Team Fundamentals
 
-Dashboard Preview
-Insert your dashboard screenshot here
-
 Learning Outcomes
+
 Through this project, I gained hands-on experience in
 Building custom Splunk dashboards
 Creating threat detection use cases
@@ -65,15 +72,18 @@ Visualizing attack patterns
 Developing practical SOC analyst skills
 
 Future Improvements
-Add MITRE ATT&CK mapping
+
+I am adding MITRE ATT&CK mapping
 Integrate real firewall and Windows Event logs
 Create email alerting for high-severity incidents
 Include geo-location visualization of attacker IPs
 Add ransomware and insider threat detection use cases
 
 Author
+
 Ibrahim Nasiru
 Aspiring SOC Analyst | Cybersecurity Enthusiast | Python & SIEM Learner
 
 Why This Project Matters
+
 This project demonstrates the ability to build and customize a Splunk SIEM dashboard that detects multiple attack types from log data, providing a practical example of the monitoring and investigation skills expected in a Security Operations Center (SOC). It showcases experience with threat detection, SPL queries, dashboard creation, and incident analysis using industry-standard tools.
